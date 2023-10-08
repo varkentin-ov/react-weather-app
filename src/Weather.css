@@ -6,7 +6,7 @@
 }
 
 .Weather .temperature {
-  font-size: 64px;
+  font-size: 62px;
   font-weight: 400;
   margin-left: 10px;
 }
@@ -26,9 +26,12 @@
   font-size: 24px;
   font-weight: 100;
   margin: 20px, 0, 0, 0;
-  line-height: 29px;
+  line-height: 24px;
 }
 
+.Weather img {
+  margin-bottom: 30px;
+}
 .Weather ul {
   margin: 0;
   padding: 0;
