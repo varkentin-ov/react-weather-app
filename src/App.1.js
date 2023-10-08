@@ -1,6 +1,4 @@
-import "./App.css";
-
-function App() {
+export default function App() {
   return (
     <div className="App">
       Weather App
@@ -9,6 +7,7 @@ function App() {
         <a
           href="https://github.com/varkentin-ov/react-weather-app"
           target="_blank"
+          rel="noopener"
         >
           open-sourced on GitHub
         </a>
@@ -16,5 +15,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
