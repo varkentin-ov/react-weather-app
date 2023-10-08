@@ -7,7 +7,7 @@ export default function App() {
         <a
           href="https://github.com/varkentin-ov/react-weather-app"
           target="_blank"
-          rel="noopener"
+          rel="noreferrer"
         >
           open-sourced on GitHub
         </a>
