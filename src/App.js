@@ -1,7 +1,20 @@
 import "./App.css";
 
 function App() {
-  return <div className="App">Weather App</div>;
+  return (
+    <div className="App">
+      Weather App
+      <footer>
+        This project is created by Olena Varkentin and is{" "}
+        <a
+          href="https://github.com/varkentin-ov/react-weather-app"
+          target="_blank"
+        >
+          open-sourced on GitHub
+        </a>
+      </footer>
+    </div>
+  );
 }
 
 export default App;
